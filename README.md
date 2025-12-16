@@ -23,3 +23,8 @@ Banco de dados relacional desenvolvido em SQL Server para um sistema de pedidos 
 ## Tecnologias
 - SQL Server
 - T-SQL
+
+## ⚠️ Observação:
+-Este repositório refere-se a uma atividade acadêmica.
+O banco de dados contém exclusivamente dados fictícios,
+sem qualquer informação real ou sensível.
